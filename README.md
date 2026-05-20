@@ -50,7 +50,4 @@
   </tr>
 </table>
 
----
-### footer
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=80&section=footer"/>

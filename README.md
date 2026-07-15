@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header&text=willko22&fontSize=40&fontColor=a8dadc&fontAlignY=65&desc=CS%20student%20%E2%80%94%20games%2C%20tools%2C%20hardware&descSize=14&descAlignY=85&descColor=778da9"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header&text=Daishin&fontSize=40&fontColor=a8dadc&fontAlignY=65&desc=CS%20student%20%E2%80%94%20games%2C%20tools%2C%20hardware&descSize=14&descAlignY=85&descColor=778da9"/>
 
 <br/>
 
@@ -9,10 +9,10 @@
   <img src="https://img.shields.io/badge/Web%20Development-1a1a2e?style=for-the-badge"/>
 </p>
 <p align="center">
-  <a href="https://github.com/willko22?tab=repositories&language=c%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-F34B7D?logo=c%2B%2B"/></a>
-  <a href="https://github.com/willko22?tab=repositories&language=python"><img src="https://img.shields.io/badge/Python-3572A5?logo=python&logoColor=white"/></a>
-  <a href="https://github.com/willko22?tab=repositories&language=javascript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/></a>
-  <a href="https://github.com/willko22?tab=repositories&language=autohotkey"><img src="https://img.shields.io/badge/Autohotkey-6290B4"/></a>
+  <a href="https://github.com/da1shi1n?tab=repositories&language=c%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-F34B7D?logo=c%2B%2B"/></a>
+  <a href="https://github.com/da1shi1n?tab=repositories&language=python"><img src="https://img.shields.io/badge/Python-3572A5?logo=python&logoColor=white"/></a>
+  <a href="https://github.com/da1shi1n?tab=repositories&language=javascript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/></a>
+  <a href="https://github.com/da1shi1n?tab=repositories&language=autohotkey"><img src="https://img.shields.io/badge/Autohotkey-6290B4"/></a>
 </p>
 
 ---
@@ -26,14 +26,14 @@
     <th>Stack</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/willko22/git_rust"><b>git_rust</b></a></td>
+    <td><a href="https://github.com/da1shi1n/git_rust"><b>git_rust</b></a></td>
     <td>Reimplementing core Git functionality from scratch</td>
     <td>
       <img src="https://img.shields.io/badge/Rust-B7410E?logo=rust&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/willko22/Cubomancy"><b>Cubomancy</b></a></td>
+    <td><a href="https://github.com/da1shi1n/Cubomancy"><b>Cubomancy</b></a></td>
     <td>University game project</td>
     <td>
       <img src="https://img.shields.io/badge/Unreal%205.4-313131?logo=unrealengine&logoColor=white"/>
@@ -41,7 +41,7 @@
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/willko22/Alvea"><b>Alvea</b></a></td>
+    <td><a href="https://github.com/da1shi1n/Alvea"><b>Alvea</b></a></td>
     <td>Custom wireless mechanical keyboard PCB</td>
     <td>
       <img src="https://img.shields.io/badge/KiCad-314CB0"/>

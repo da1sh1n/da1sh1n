@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/Game%20Dev-1a1a2e?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Systems%20Programming-1a1a2e?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Scripting%20%26%20Automation-1a1a2e?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Web%20Development-1a1a2e?style=for-the-badge"/>
 </p>
 <p align="center">
   <a href="https://github.com/da1sh1n?tab=repositories&language=c%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-F34B7D?logo=c%2B%2B"/></a>

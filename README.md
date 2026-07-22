@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header&text=Daishin&fontSize=40&fontColor=a8dadc&fontAlignY=65&desc=CS%20student%2[...]
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header&text=Daishin&fontSize=40&fontColor=a8dadc&fontAlignY=65&desc=CS%20student%20%E2%80%94%20games%2C%20tools%2C%20hardware&descSize=14&descAlignY=85&descColor=778da9"/>
 
 <br/>
 
@@ -12,7 +12,7 @@
   <a href="https://github.com/da1sh1n?tab=repositories&language=c%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-F34B7D?logo=c%2B%2B"/></a>
   <a href="https://github.com/da1sh1n?tab=repositories&language=python"><img src="https://img.shields.io/badge/Python-3572A5?logo=python&logoColor=white"/></a>
   <a href="https://github.com/da1sh1n?tab=repositories&language=javascript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/></a>
-  <a href="https://github.com/da1sh1n?tab=repositories&language=autohotkey"><img src="https://img.shields.io/badge/Autohotkey-6290B4"/></a>
+  <a href="https://github.com/da1shi1n?tab=repositories&language=autohotkey"><img src="https://img.shields.io/badge/Autohotkey-6290B4"/></a>
 </p>
 
 ---
@@ -33,8 +33,8 @@
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/da1sh1n/Cubomancy"><b>Cubomancy</b></a></td>
-    <td>University game project</td>
+    <td><a href="https://github.com/da1sh1n/GaCaSy”><b>GaCaSy</b></a></td>
+    <td>Game Cartrige system - turn nvmes to game catridges</td>
     <td>
       <img src="https://img.shields.io/badge/Unreal%205.4-313131?logo=unrealengine&logoColor=white"/>
       <img src="https://img.shields.io/badge/C%2B%2B-F34B7D?logo=c%2B%2B"/>

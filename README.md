@@ -1,5 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header&text=Daishin&fontSize=40&fontColor=a8dadc&fontAlignY=65&desc=CS%20student%2[...] 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header&text=Daishin&fontSize=40&fontColor=a8dadc&fontAlignY=65&desc=CS%20student%20%E2%80%94%20games%2C%20tools%2C%20hardware&descSize=14&descAlignY=85&descColor=778da9"/>
 <br/>
 
 <p align="center">

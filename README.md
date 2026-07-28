@@ -7,7 +7,6 @@
 </p>
 <p align="center">
   <a href="https://github.com/da1sh1n?tab=repositories&language=c%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-F34B7D?logo=c%2B%2B&logoColor=white"/></a>
-  <a href="https://github.com/da1sh1n?tab=repositories&language=rust"><img src="https://img.shields.io/badge/Rust-B7410E?logo=rust&logoColor=white"/></a>
   <a href="https://github.com/da1sh1n?tab=repositories&language=python"><img src="https://img.shields.io/badge/Python-3572A5?logo=python&logoColor=white"/></a>
   <a href="https://github.com/da1sh1n?tab=repositories&language=java"><img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"/></a>
   <a href="https://github.com/da1sh1n?tab=repositories&language=php"><img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"/></a>

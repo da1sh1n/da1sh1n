@@ -34,15 +34,8 @@
     <th>Stack</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/da1sh1n/git_rust"><b>git_rust</b></a></td>
-    <td>Reimplementing core Git functionality from scratch</td>
-    <td>
-      <img src="https://img.shields.io/badge/Rust-B7410E?logo=rust&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/da1sh1n/GaCaSy"><b>GaCaSy</b></a></td>
-    <td>Game Cartridge System — turn NVMe drives into game cartridges</td>
+    <td><a href="https://github.com/da1sh1n/GaCaSy"><b>Romzeta</b></a></td>
+    <td>Game Cartridge System — turn any storage media into a game cartridges</td>
     <td>
       <img src="https://img.shields.io/badge/Rust-B7410E?logo=rust&logoColor=white"/>
       <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"/>
@@ -55,6 +48,13 @@
     <td>
       <img src="https://img.shields.io/badge/KiCad-314CB0"/>
       <img src="https://img.shields.io/badge/ZMK-555"/>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/da1sh1n/git_rust"><b>git_rust</b></a></td>
+    <td>Reimplementing core Git functionality from scratch</td>
+    <td>
+      <img src="https://img.shields.io/badge/Rust-B7410E?logo=rust&logoColor=white"/>
     </td>
   </tr>
 </table>
